@@ -1,2 +1,3 @@
-# gh-assets
-assets for my github repos
+---
+    Just a repository of assets for my github repos.. :)
+---
